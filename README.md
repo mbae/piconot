@@ -1,5 +1,5 @@
 [Picobot]: https://www.cs.hmc.edu/twiki/bin/view/CS5/PicobotProgrammingGold
-[Teams]: https://github.com/hmc-cs111-fall2016/piconot/wiki/Team
+[Teams]: https://github.com/hmc-cs111-fall2016/piconot/wiki/Teams
 [API]: http://www.cs.hmc.edu/courses/2016/fall/cs111/picolib/index.html#package
 [JavaFX]: https://docs.oracle.com/javafx/2/installation/jfxpub-installation.htm
 [emptyfile]: https://d1b10bmlvqabco.cloudfront.net/attach/ijjfckl6old4zz/hku6eqiwn313j8/il5k6nm8w0yk/empty.txt
