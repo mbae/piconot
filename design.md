@@ -17,7 +17,8 @@ result, users can just specify whether or not picobot is blocked or not.
 We changed the syntax for the commands as well. On the left-hand side of a command,
 we use a prefix operator and the initials for the four cardinal directions for
 succinctness. On the right-hand side, we added natural language keywords like "go" and
-"changeState" to make it easier to understand the program.
+"changeState" to make it easier to understand the program. This allows the user to
+stay in the same state implicitly.
 
 ## What behaviors are easier to express in your design than in Picobot’s original design?  If there are no such behaviors, why not?
 Ideas where the user would use an * to specify something is easier in our design
